@@ -13,6 +13,6 @@ Building upon the previous sections, I explored the relationship between hormone
 ## Part 4: Effect of Saturated Fat Consumption on Cardiovascular Death Rates
 In the final section, I focused on the impact of saturated fat consumption on cardiovascular mortality rates. Using data from the National Heart-Diet Study, I conducted hypothesis tests to evaluate the association between saturated fat intake and cardiovascular health outcomes, providing valuable insights into dietary recommendations for reducing the risk of cardiovascular disease.
 
-Through this comprehensive analysis, I aimed to deepen our understanding of cardiovascular disease and its various contributing factors. By examining extensive datasets and employing rigorous statistical methods, this project offers valuable insights into prevention, treatment, and overall cardiovascular health.
+Through this comprehensive analysis, I have deepened our understanding of cardiovascular disease and its various contributing factors. By examining extensive datasets and employing rigorous statistical methods, this project offers valuable insights into prevention, treatment, and overall cardiovascular health.
 
 
