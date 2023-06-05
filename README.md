@@ -1,4 +1,4 @@
-# Cardiovascular_Disease: Causes, Treatment, and Prevention
+# Cardiovascular Disease: Causes, Treatment, and Prevention
 In this project, I conducted an in-depth investigation into one of the leading causes of death worldwide: cardiovascular disease. Drawing from decades of medical research, I explored multiple causes and effects across four distinct studies to gain comprehensive insights into this critical health issue.
 
 ## Part 1: Causes of Death
